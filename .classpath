@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/PY4KS/workspace/bibliotecas java/jfreechart-1.0.17/lib/jfreechart-1.0.17.jar"/>
+	<classpathentry kind="lib" path="/Users/PY4KS/workspace/bibliotecas java/jcommon-1.0.22/jcommon-1.0.22.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
